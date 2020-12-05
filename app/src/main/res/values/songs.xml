@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="scorpion">
+        <item>24K Magic</item>
+        <item>3D</item>
+        <item>Available</item>
+        <item>Bang Bang</item>
+        <item>Billionaire</item>
+    </string-array>
+    <string-array name="abbeyRoad">
+        <item>Come Together</item>
+        <item>Something</item>
+        <item>Maxwell\'s Silver Hammer</item>
+        <item>Oh! Darling</item>
+        <item>Octopus\'s Garden</item>
+    </string-array>
+    <string-array name="divide">
+        <item>Premonition </item>
+        <item>Unaccommodating </item>
+        <item>Alfred</item>
+        <item>Darkness</item>
+        <item>Stepdad</item>
+    </string-array>
+</resources>
+
